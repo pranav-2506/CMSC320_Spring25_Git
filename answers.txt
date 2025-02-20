@@ -10,3 +10,7 @@ Answer: filtering datasets for machine learning application
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merging combines branches while preserving history, while rebasing rewrites history by moving commits to the beginning of another branch
+
+Q4: What are you looking forward to this semester?
+
+Answer: Trying to get into the basics of machine learning as i wish to study this displine the most
